@@ -1,5 +1,5 @@
 # Modern Chinese Dictionary
-### [Access Modern Chinese Dictionary](https://modernchinesedictionary.com/dictionary)
+### [Access Modern Chinese Dictionary](https://modernchinesedictionary.com)
 ## A Chinese Language Learning Web Application
 
 <img src="assets/dictionary.png" style="width: 100%">
